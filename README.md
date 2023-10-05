@@ -21,9 +21,11 @@
 
 > The license for this dataset is currently unknown.
 
-Expected Update Frequency
-The update frequency for this dataset is not specified.
+**Expected Update Frequency**
+
+> The update frequency for this dataset is not specified.
 
 **Tags**
-Automobiles
-Vehicles
+
+> Automobiles
+> Vehicles
